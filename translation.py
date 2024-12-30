@@ -8,7 +8,7 @@ class Translation(object):
 ◈ I Cᴀɴ Fᴏʀᴡᴀʀᴅ Aʟʟ Mᴇꜱꜱᴀɢᴇ Fʀᴏᴍ Oɴᴇ Cʜᴀɴɴᴇʟ Tᴏ Aɴᴏᴛʜᴇʀ Cʜᴀɴɴᴇʟ.
 ◈ Cʟɪᴄᴋ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Kɴᴏᴡ Mᴏʀᴇ Aʙᴏᴜᴛ Mᴇ.
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/JISSHU_BOTS'>Jɪssʜᴜ ʙᴏᴛs</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/akmoviebotz'>Akmoviebotz</a></blockquote></b>"""
 
 
   HELP_TXT = """<b><u>🛠️ HELP</b></u>
@@ -41,14 +41,14 @@ class Translation(object):
   
   ABOUT_TXT = """<b>
 ╭───────────⍟
-├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/Jisshu_forward_bot>Auto Forward Bot</a>
-├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/MR_JISSHU>Mr.Jisshu</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/JISSHU_BOTS>JISSHU BOTS </a>   
+├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/AKautoforward_bot>Auto Forward Bot</a>
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/The_SonGoku>Akmoviebotz</a> 
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/akmoviebotz>Akmoviebotz</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>
-├◈ Bot Vᴇʀꜱɪᴏɴ: <a href=https://github.com/Jisshubot/Jisshu-forward-bot>V-2.4.1
-├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://github.com/Jisshubot/Jisshu-forward-bot>My Repo</a>
+├◈ Bot Vᴇʀꜱɪᴏɴ: <a href=https://t.me/akmoviebotz>V-2.4.1
+├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://t.me/akmoviebotz>Join</a>
 ╰───────────────⍟</b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u>
