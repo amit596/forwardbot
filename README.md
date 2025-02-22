@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://graph.org/file/e223aea8aca83e99162bb.jpg"/>
-<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
-
 ### FEATURES
  - Forward Message From Public Channel To Your Channel.
  - Forward Message From Private Channel To Your Channel.
